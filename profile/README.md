@@ -9,8 +9,8 @@ Explore our constellation of projects, each designed to tackle unique challenges
 
 ### 1. cve_list_check 🕵️‍♂️
 **Mission**: The `cve_list_check` project is your trusty sidekick in the quest for digital security. It fetches a list of Common Vulnerabilities and Exposures (CVEs) from the Prisma Cloud CVE Viewer, checks their status in intelligence streams, and saves their details in a `cve_details.json` file.
-- [🔗 Project Link]: [cve_list_check](https://github.com/PANW-SSTRAUBE/prisma_cloud_api/tree/main/cve_list_check)
-- [📘 Documentation]: [doc](https://github.com/PANW-SSTRAUBE/prisma_cloud_api/docs): 
+- [🔗 Project Link](https://github.com/PANW-SSTRAUBE/prisma_cloud_api/tree/main/cve_list_check)
+- [📘 Documentation](https://github.com/PANW-SSTRAUBE/prisma_cloud_api/docs)
 
 ## Get Involved 👩‍💻
 We believe in the power of collaboration and welcome contributions from the community. If you're interested in joining our mission or have ideas for new projects, feel free to get involved! Check out the individual project repositories for contribution guidelines and ways to engage with us.
